@@ -1,0 +1,7 @@
+@Pariksha_HostAddress = http://localhost:5144
+
+GET {{Pariksha_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+###
