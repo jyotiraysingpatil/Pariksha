@@ -1,0 +1,60 @@
+Pariksha - Online Examination Portal
+Pariksha is a web-based platform for conducting online quizzes and exams, designed to be used by both administrators and regular users. The portal allows admins to manage quizzes, categories, and users, while normal users can attempt quizzes, view results, and track their progress. It is a full-stack application with a backend powered by ASP.NET Core and a frontend built with React.
+
+Features
+User Features:
+
+Register and Login: Users can register and log in using JWT-based authentication.
+Quiz Attempt: Registered users can attempt quizzes, answer questions, and submit responses.
+View Results: After completing a quiz, users can view their scorecards and track past results.
+Admin Features:
+
+Manage Quizzes: Admins can create, update, and delete quizzes.
+Manage Categories: Admins can add, update, and remove quiz categories.
+Manage Questions: Admins can create, update, and delete questions for each quiz.
+View User Results: Admins can view quiz results of all users who have attempted any quizzes.
+Technologies Used:
+
+Backend: ASP.NET Core (C#) for building a RESTful API.
+Frontend: React for building a responsive user interface.
+Database: SQL Server (or PostgreSQL) for data storage, including user information, quizzes, and results.
+JWT Authentication: Secure user authentication and authorization using JSON Web Tokens (JWT).
+API Endpoints:
+
+/api/auth/register: Register a new user.
+/api/auth/login: Login and receive a JWT token.
+/api/quizzes: Create, update, and delete quizzes.
+/api/questions: Manage quiz questions.
+/api/categories: Manage quiz categories.
+/api/results: Store and fetch user quiz results.
+Backend Overview:
+The backend is built using ASP.NET Core and follows the MVC (Model-View-Controller) pattern. It handles the core logic for user management, quiz administration, and result storage. Authentication is managed through JWT, ensuring secure login and session management for users and admins.
+
+The backend exposes several API endpoints for frontend integration, including endpoints for user registration, login, managing quizzes, questions, and categories, as well as fetching user results.
+
+Frontend Overview:
+The frontend is developed using React to provide a dynamic and interactive user interface. It allows users to register, log in, attempt quizzes, and view results. Admins have a dedicated dashboard to manage quizzes, questions, and categories. The frontend communicates with the backend via RESTful API calls using Axios.
+
+How to Run the Application:
+1. Backend:
+
+Clone the backend repository.
+Make sure you have .NET Core SDK installed.
+Open a terminal in the backend directory and run:
+bash
+Copy code
+dotnet build
+dotnet run
+The API will be available at http://localhost:5001.
+2. Frontend:
+
+Clone the frontend repository.
+Install dependencies by running:
+bash
+Copy code
+npm install
+Run the frontend using:
+bash
+Copy code
+npm start
+The React app will be available at http://localhost:3000.
