@@ -7,88 +7,68 @@
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\quizresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\quizresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\quizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\quizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iquizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iquizresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\pariksha.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\pariksha.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\quizzerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\quizzerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\pariksha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\pariksha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iquizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iquizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\quizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\quizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\quizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\dto\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\dto\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\quizresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,8 +79,32 @@
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\entities\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\entities\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iquizresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,36 +115,56 @@
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iquizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\quizzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\quizzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\quizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\quizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\pariksha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\pariksha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\pariksha.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\pariksha.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\repository\\quizzerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\repository\\quizzerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\services\\iquizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\services\\iquizzeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\controller\\quizzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|solutionrelative:pariksha\\controller\\quizzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A9A465-0DD9-4C82-9968-7A74CDFBC05E}|Pariksha\\Pariksha.csproj|c:\\users\\jp893\\source\\repos\\pariksha\\pariksha\\pariksha.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -162,15 +186,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.json",
-              "RelativeDocumentMoniker": "Pariksha\\appsettings.json",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.json",
-              "RelativeToolTip": "Pariksha\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T18:16:57.844Z"
+              "DocumentIndex": 1,
+              "Title": "QuizResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizResultRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\QuizResultRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizResultRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\QuizResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:29:51.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,403 +205,50 @@
               "RelativeDocumentMoniker": "Pariksha\\Program.cs",
               "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Program.cs",
               "RelativeToolTip": "Pariksha\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T18:14:34.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Users.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\Users.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:37:54.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\IUserRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Title": "QuizResultController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizResultController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\QuizResultController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizResultController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\QuizResultController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswF8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:11:14.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:40:57.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\UserService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\UserService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvyYAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "QuizResultService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizResultService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\QuizResultService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizResultService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\QuizResultService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:11:02.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\UsersController.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Controller\\UsersController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\UsersController.cs",
-              "RelativeToolTip": "Pariksha\\Controller\\UsersController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAIQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:34:07.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:36:46.644Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Admins.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Admins.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\Admins.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Admins.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\Admins.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAgAAAAsAAAA",
+              "Title": "IQuizResultService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizResultService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\IQuizResultService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizResultService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\IQuizResultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:46:10.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAJ8AAAAAAAAAAADwv7EAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:14:55.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Pariksha\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.Development.json",
-              "RelativeToolTip": "Pariksha\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T11:04:01.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Pariksha\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Pariksha\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABoAAAAAAAAAAADwvykAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T11:07:09.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserRegistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\DTO\\UserRegistrationDto.cs",
-              "RelativeDocumentMoniker": "Pariksha\\DTO\\UserRegistrationDto.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\DTO\\UserRegistrationDto.cs",
-              "RelativeToolTip": "Pariksha\\DTO\\UserRegistrationDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T06:51:20.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pariksha.http",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.http",
-              "RelativeDocumentMoniker": "Pariksha\\Pariksha.http",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.http",
-              "RelativeToolTip": "Pariksha\\Pariksha.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-20T18:21:37.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "QuizzeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizzeRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\QuizzeRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizzeRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\QuizzeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T18:42:57.456Z"
+              "WhenOpened": "2025-01-31T12:29:45.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Pariksha.csproj",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.csproj",
-              "RelativeDocumentMoniker": "Pariksha\\Pariksha.csproj",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.csproj",
-              "RelativeToolTip": "Pariksha\\Pariksha.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T16:33:10.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\AdminRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\AdminRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\AdminRepository.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAiwHoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:51:28.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IUserService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:13:38.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IQuizzeService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizzeService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\IQuizzeService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizzeService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\IQuizzeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:49:45.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "QuizzeService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizzeService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\QuizzeService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizzeService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\QuizzeService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIBJwAcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:50:17.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "QuizResultRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizResultRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\QuizResultRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizResultRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\QuizResultRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:29:51.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAiwD4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:24:22.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IAdminRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\IAdminRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IAdminRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\IAdminRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:48:33.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Quizzes.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Quizzes.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\Quizzes.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Quizzes.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\Quizzes.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:55:38.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "QuizResults.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\QuizResults.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\QuizResults.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\QuizResults.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\QuizResults.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:06:00.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Questions.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Questions.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\Questions.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Questions.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\Questions.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:58:28.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Categories.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Entities\\Categories.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Categories.cs",
-              "RelativeToolTip": "Pariksha\\Entities\\Categories.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:48:57.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:21:56.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IQuizeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizeRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\IQuizeRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizeRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\IQuizeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T18:39:54.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "QuizzeController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizzeController.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Controller\\QuizzeController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizzeController.cs",
-              "RelativeToolTip": "Pariksha\\Controller\\QuizzeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T19:54:31.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IQuizResultRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizResultRepository.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Repository\\IQuizResultRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizResultRepository.cs",
-              "RelativeToolTip": "Pariksha\\Repository\\IQuizResultRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:19:56.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\AdminController.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Controller\\AdminController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\AdminController.cs",
-              "RelativeToolTip": "Pariksha\\Controller\\AdminController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAIBJwGMAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:14:57.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Controller\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\CategoryController.cs",
-              "RelativeToolTip": "Pariksha\\Controller\\CategoryController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIBJwBsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:12:23.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:07:48.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:07:13.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\AdminService.cs",
-              "RelativeDocumentMoniker": "Pariksha\\Services\\AdminService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\AdminService.cs",
-              "RelativeToolTip": "Pariksha\\Services\\AdminService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAIBJwAsAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:02:29.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IAdminService.cs",
               "RelativeDocumentMoniker": "Pariksha\\Services\\IAdminService.cs",
@@ -588,7 +260,427 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:11:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Users.cs",
+              "RelativeToolTip": "Pariksha\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:37:54.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAwwFwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:14:55.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\UserService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:11:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\UsersController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\UsersController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAgwIQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:34:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Questions.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Entities\\Questions.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Questions.cs",
+              "RelativeToolTip": "Pariksha\\Entities\\Questions.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:58:28.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Categories.cs",
+              "RelativeToolTip": "Pariksha\\Entities\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:23:23.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuizResults.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\QuizResults.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Entities\\QuizResults.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\QuizResults.cs",
+              "RelativeToolTip": "Pariksha\\Entities\\QuizResults.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:06:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:21:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAiwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:12:23.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv3wAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:24:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:07:48.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Admins.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Entities\\Admins.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Entities\\Admins.cs",
+              "RelativeToolTip": "Pariksha\\Entities\\Admins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:46:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\DTO\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "Pariksha\\DTO\\AdminRequest.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\DTO\\AdminRequest.cs",
+              "RelativeToolTip": "Pariksha\\DTO\\AdminRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:22:01.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuestionRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:36:29.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\IQuestionService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuestionService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\IQuestionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:54:15.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuestionController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuestionController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\QuestionController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAiwFcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:56:31.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuestionService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\QuestionService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBUAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:43:15.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\AdminService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:02:29.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\QuestionRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuestionRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\QuestionRepository.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAH4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:44:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IQuizResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizResultRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\IQuizResultRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizResultRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\IQuizResultRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:19:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IUserService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:13:38.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IQuizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizeRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\IQuizeRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IQuizeRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\IQuizeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:39:54.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuizzeService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizzeService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\QuizzeService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\QuizzeService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\QuizzeService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:50:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\IAdminRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:48:33.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\AdminController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\AdminController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\AdminController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\AdminController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA+wCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:14:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pariksha.csproj",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.csproj",
+              "RelativeDocumentMoniker": "Pariksha\\Pariksha.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.csproj",
+              "RelativeToolTip": "Pariksha\\Pariksha.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T16:33:10.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pariksha.http",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.http",
+              "RelativeDocumentMoniker": "Pariksha\\Pariksha.http",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.http",
+              "RelativeToolTip": "Pariksha\\Pariksha.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-20T18:21:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.json",
+              "RelativeDocumentMoniker": "Pariksha\\appsettings.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.json",
+              "RelativeToolTip": "Pariksha\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T18:16:57.844Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:07:13.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Pariksha\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\appsettings.Development.json",
+              "RelativeToolTip": "Pariksha\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:04:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pariksha\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pariksha\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T11:07:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "QuizzeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizzeRepository.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Repository\\QuizzeRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Repository\\QuizzeRepository.cs",
+              "RelativeToolTip": "Pariksha\\Repository\\QuizzeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:42:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IQuizzeService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizzeService.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Services\\IQuizzeService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Services\\IQuizzeService.cs",
+              "RelativeToolTip": "Pariksha\\Services\\IQuizzeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:49:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuizzeController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizzeController.cs",
+              "RelativeDocumentMoniker": "Pariksha\\Controller\\QuizzeController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Controller\\QuizzeController.cs",
+              "RelativeToolTip": "Pariksha\\Controller\\QuizzeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:54:31.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "Pariksha",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Pariksha\\Pariksha\\Pariksha.csproj",
               "RelativeDocumentMoniker": "Pariksha\\Pariksha.csproj",

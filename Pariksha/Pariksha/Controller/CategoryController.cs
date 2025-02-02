@@ -94,5 +94,27 @@ namespace Pariksha.Controller
             }
 
         }
+
+        [HttpGet("{cat_id}")]
+        public async Task<IActionResult> GetCategoryById(int cat_id)
+        {
+            try
+            {
+                var category = await categoryService.GetCategoryById(cat_id);
+                if (category != null)
+                {
+                    return Ok(new { Success = true, Data = category });
+                }
+                else
+                {
+                    return NotFound(new { Success = false, Message = "category not found" });
+                }
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Success = false, Message = "internal server error" });
+            }
+        }
     }
 }

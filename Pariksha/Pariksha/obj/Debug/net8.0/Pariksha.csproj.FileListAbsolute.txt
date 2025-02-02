@@ -54,3 +54,10 @@ C:\Users\jp893\source\repos\Pariksha\Pariksha\obj\Debug\net8.0\Pariksha.pdb
 C:\Users\jp893\source\repos\Pariksha\Pariksha\obj\Debug\net8.0\Pariksha.genruntimeconfig.cache
 C:\Users\jp893\source\repos\Pariksha\Pariksha\obj\Debug\net8.0\ref\Pariksha.dll
 C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\JWT.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jp893\source\repos\Pariksha\Pariksha\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

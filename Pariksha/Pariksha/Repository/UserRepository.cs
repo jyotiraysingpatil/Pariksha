@@ -38,7 +38,7 @@ namespace Pariksha.Repository
                 }
                 catch (Exception ex)
                 {
-                    // Log the exception details
+                    
                     Console.WriteLine("Error: " + ex.Message);
                     Console.WriteLine("Stack Trace: " + ex.StackTrace);
                     return false;
@@ -63,6 +63,76 @@ namespace Pariksha.Repository
                 {
                     return false;
                 }
+            }
+        }
+
+        public async Task<Users> FindByFirstName(string firstName)
+        {
+           using(MySqlConnection c = new MySqlConnection(_connectionString))
+            {
+                try
+                {
+                    string query = "Select * from users where firstName=@firstName";
+                    MySqlCommand command = new MySqlCommand(query, c);
+                    command.Parameters.AddWithValue("@firstName",firstName);
+                    await c.OpenAsync();
+                    using (MySqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (await reader.ReadAsync())
+                        {
+                            return new Users
+                            {
+                                user_id = reader.GetInt32("user_id"),
+                                firstName = reader.GetString("firstName"),
+                                lastName = reader.GetString("lastName"),
+                                isActive = reader.GetBoolean("isActive"),
+                                password = reader.GetString("password"),
+                                phoneNumber = reader.GetString("phoneNumber"),
+                                username = reader.GetString("username")
+                            };
+                        }
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("An error occurred while finding");
+                }
+            }return null;
+        }
+
+        public async Task<Users> FindUserById(int user_id)
+        {
+            using (MySqlConnection c = new MySqlConnection(_connectionString))
+            {
+                try
+                {
+                    string query = "SELECT * FROM users WHERE user_id=@user_id";
+                    MySqlCommand command = new MySqlCommand(query, c);
+                    command.Parameters.AddWithValue("@user_id", user_id);
+                    await c.OpenAsync();
+                    using (MySqlDataReader reader = (MySqlDataReader)await command.ExecuteReaderAsync())
+                    {
+                        if (await reader.ReadAsync())
+                        {
+                            return new Users
+                            {
+                                user_id = reader.GetInt32("user_id"),
+                                firstName = reader.GetString("firstName"),
+                                lastName = reader.GetString("lastName"),
+                                isActive = reader.GetBoolean("isActive"),
+                                password = reader.GetString("password"),
+                                phoneNumber = reader.GetString("phoneNumber"),
+                                username = reader.GetString("username")
+                            };
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception("An error occurred while finding the user", ex);
+                }
+                return null;
             }
         }
         public async Task<List<Users>> GetAll()

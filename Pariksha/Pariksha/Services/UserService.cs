@@ -34,5 +34,10 @@ namespace Pariksha.Services
                 throw new Exception("An error occurred while registering the user", ex);
             }
         }
+
+        public async Task<Users> FindUserById(int user_id) => await _repository.FindUserById(user_id);
+
+        public async Task<Users> FindByFirstName(string firstName)=>await _repository.FindByFirstName(firstName);   
+       
     }
 }

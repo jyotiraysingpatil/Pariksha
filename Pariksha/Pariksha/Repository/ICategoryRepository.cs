@@ -8,5 +8,7 @@ namespace Pariksha.Repository
         public Task<bool> AddCategory(Categories category);
         public Task<bool> UpdateCategory(Categories category);
         public Task<bool> DeleteCategory(int cat_id);
+        public Task<Categories> GetCategoryById(int cat_id);
+
     }
 }

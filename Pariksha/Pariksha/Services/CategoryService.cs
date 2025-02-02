@@ -19,6 +19,8 @@ namespace Pariksha.Services
         
 
         public async Task<List<Categories>> GetAll()=> await repository.GetAll();
+
+        public async Task<Categories> GetCategoryById(int cat_id)=> await repository.GetCategoryById(cat_id);   
         
 
         public async Task<bool> UpdateCategory(Categories category)=> await repository.UpdateCategory(category);    

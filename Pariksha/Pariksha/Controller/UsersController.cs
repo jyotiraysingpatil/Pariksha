@@ -128,6 +128,50 @@ namespace Pariksha.Controller
                 return StatusCode(500, new { Success = false, Message = "An error occurred while registering the user", Details = ex.Message });
             }
         }
+
+        [HttpGet("id/{user_id}")]
+        public async Task<IActionResult> GetUserById(int user_id)
+        {
+            try
+            {
+                var user = await userService.FindUserById(user_id);
+                if (user != null)
+                {
+                    return Ok(new { Success = true, Data = user });
+                }
+                else
+                {
+                    return NotFound(new { Success = false, Message = "User not found" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Success = false, Message = "An error occurred while finding the user", Details = ex.Message });
+            }
+        }
+
+
+        [HttpGet("name/{firstName}")]
+        public async Task<IActionResult> findByFirstName(string firstName)
+        {
+            try
+            {
+                var user = await userService.FindByFirstName(firstName);
+                if (user != null)
+                {
+                    return Ok(new { Success = true, Data = user });
+                }
+                else
+                {
+                    return NotFound(new { Success = false, Message = "User not found" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Success = false, Message = "An error occurred while finding the user", Details = ex.Message });
+            }
+        }
+
     }
 
 }

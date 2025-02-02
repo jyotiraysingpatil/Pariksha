@@ -24,5 +24,8 @@ namespace Pariksha.Services
 
         public async Task<bool> UpdateQuizees(Quizzes quizzes)=>await _repository.UpdateQuizees(quizzes);   
         
+       
+
+
     }
 }

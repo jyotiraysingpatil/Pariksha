@@ -44,8 +44,6 @@ namespace Pariksha.Repository
             }
         }
         
-
-
         public async Task<bool> DeleteCategory(int cat_id)
         {
             bool status = false;
@@ -97,6 +95,34 @@ namespace Pariksha.Repository
             }
         }
 
+        public async Task<Categories> GetCategoryById(int cat_id)
+        {
+            Categories category = null;
+            using (MySqlConnection c = new MySqlConnection(_connectionString))
+            {
+                await c.OpenAsync();
+                string query = "Select * from categories where cat_id=@cat_id";
+                using (MySqlCommand command = new MySqlCommand(query, c))
+                {
+                    command.Parameters.AddWithValue("@cat_id", cat_id);
+                    using (MySqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (await reader.ReadAsync())
+                        {
+                            category = new Categories()
+                            {
+                                cat_id = reader.GetInt32("cat_id"),
+                                description = reader.GetString("description"),
+                                title = reader.GetString("title"),
+                                admin_id = reader.GetInt32("admin_id")
+                            };
+
+                        }
+                    }
+                }
+                return category;
+            }
+        }
         public async Task<bool> UpdateCategory(Categories category)
         {
             bool status = false;

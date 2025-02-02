@@ -92,7 +92,7 @@ namespace Pariksha.Repository
                                     is_active = reader.GetBoolean("is_active")
                                 };
                                 admins.Add(a);
-                            }
+                        }
                         
                     }
                 }
